@@ -3,7 +3,7 @@
  {"name" : "Mike Allsopp, Honeybee Research Section, Agricultural Research Council, Private Bag X5017, Stellenbosch 7599, South Africa 021 887 4690. 20 managed colonies of <i>Apis mellifera capensis</i> and 4 managed colonies of <i>Apis mellifera scutellata</i>", "latitude" : -33.957162 ,"longitude":  18.772404, "status": "red"},
  {"name" : "Taha Basheir Hassan Soliman's uncle, Egypt. Exportation from Egypt requires a GOV permit. <i>Apis mellifera lamarckii ?</i>", "latitude" : 30.03 ,"longitude":  31.92, "status": "black"},
 {"name" : "Patricia Himeka Wepfer's sister, Switzerland Bern. 3 colonies.", "latitude" : 46.95 ,"longitude":  7.45, "status": "black"},
-{"name" : "Harro Rannamets, Estonia. Huge beekeeping apiaries with over 1000 managed colonies <i>Apis mellifera mellifera ?</i>", "latitude" : 46.95 ,"longitude":  7.45, "status": "black"},
+{"name" : "Harro Rannamets, Estonia. Huge beekeeping apiaries with over 1000 managed colonies <i>Apis mellifera mellifera ?</i>", "latitude" : 58.82 ,"longitude":  25.67, "status": "black"},
 {"name" : "Delatte Helene, UMR PVBMT lab La Reunion, Madagascar, samples from the 1st detection in 2010 from <i>Apis mellifera unicolor</i>.", "latitude" : -18.95 ,"longitude": 47.53, "status": "black"},
 {"name" : "Olivier Esnault, UMR PVBMT lab La Reunion, Mauritius, samples from the 1st detection in 2014 from <i>Apis mellifera unicolor</i>.", "latitude" : -20.17 ,"longitude": 57.48, "status": "black"},
 {"name" : "Nizar Haddad, National Center for Agricultural Research and Extension, Jordan.", "latitude" : 32.07 ,"longitude": 35.84, "status": "red"},
@@ -11,4 +11,6 @@
 {"name" : "Nizar Haddad, National Center for Agricultural Research and Extension, Egypt.", "latitude" : 30.44 ,"longitude": 31.21, "status": "red"},
 {"name" : "Nizar Haddad, National Center for Agricultural Research and Extension, Iraq.", "latitude" : 33.18 ,"longitude": 43.79, "status": "red"},
 {"name" : "Nizar Haddad, National Center for Agricultural Research and Extension, Syria.", "latitude" : 34.77 ,"longitude": 38.43, "status": "red"},
-{"name" : "Nizar Haddad, National Center for Agricultural Research and Extension, Algeria.", "latitude" : 35.64 ,"longitude": 3.48, "status": "red"}]
+{"name" : "Nizar Haddad, National Center for Agricultural Research and Extension, Algeria.", "latitude" : 35.64 ,"longitude": 3.48, "status": "red"},
+{"name" : "Bee Research Institute to contact, Czech Republic", "latitude" : 50.20 ,"longitude": 14.36, "status": "black"},
+{"name" : "CasaBio cu sanatate SRL, Cluj Napoca, Str. Republicii, nr.5, Ap.1B, Jud. Cluj, Cod. 4000015, +40726229934, Romania", "latitude" : 46.77 ,"longitude": 23.40, "status": "black"]
