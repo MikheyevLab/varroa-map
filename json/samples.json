@@ -14,4 +14,5 @@
 {"name" : "Nizar Haddad, National Center for Agricultural Research and Extension, Algeria.", "latitude" : 35.64 ,"longitude": 3.48, "status": "red"},
 {"name" : "Bee Research Institute to contact, Czech Republic", "latitude" : 50.20 ,"longitude": 14.36, "status": "black"},
 {"name" : "CasaBio cu sanatate SRL, Cluj Napoca, Str. Republicii, nr.5, Ap.1B, Jud. Cluj, Cod. 4000015, +40726229934, Romania.", "latitude" : 46.77 ,"longitude": 23.40, "status": "black"},
-{"name" : "Gregoire Noel, University of Liege, Belgium", "latitude" : 50.583108 ,"longitude": 5.560196, "status": "red"}]
+{"name" : "Gregoire Noel, University of Liege, Belgium", "latitude" : 50.583108 ,"longitude": 5.560196, "status": "green"},
+{"name" : "Sasha, University of Amazonia?, Florencia, Colombia", "latitude" : 1.620191 ,"longitude": -75.603950, "status": "red"}]
