@@ -16,4 +16,4 @@
 {"name" : "Alina CasaBio cu sanatate SRL, Cluj Napoca, Romania.", "latitude" : 46.77 ,"longitude": 23.40, "status": "red"},
 {"name" : "Gregoire Noel, University of Liege, Belgium", "latitude" : 50.583108 ,"longitude": 5.560196, "status": "green"},
 {"name" : "Sasha, University of Amazonia, Florencia, Colombia", "latitude" : 1.620191 ,"longitude": -75.603950, "status": "green"},
-{"name" : "Oleg Gusev; Eduard Shuralev; Malik, Kazan Federal University, Kazan, Russia", "latitude" : 55.79 ,"longitude": -49.12, "status": "red"}]
+{"name" : "Oleg Gusev; Eduard Shuralev; Malik, Kazan Federal University, Kazan, Russia", "latitude" : 55.79 ,"longitude": 49.12, "status": "red"}]
