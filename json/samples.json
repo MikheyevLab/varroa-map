@@ -6,7 +6,7 @@
 {"name" : "Ting Zhou, CSIRO, Heilongjing Province, China. <i>V. destructor</i> collected in 2001", "latitude" : 46.54 ,"longitude": 132.06 , "status" : "green"},
 {"name" : "Ting Zhou, CSIRO, Sichuan Province, China. <i>V. destructor</i> collected in 2001", "latitude" : 31.42 ,"longitude":  104.11 , "status" : "green"},
 {"name" : "Ting Zhou, CSIRO, Guandong Province, China. <i>V. destructor</i> collected in 2001", "latitude" : 21.67 ,"longitude":  110.67 , "status" : "green"},
-{"name" : "Conchin Grau Nogues, 46198 Dos Aguas, Valencia. ~60 managed colonies of <i>Apis mellifera iberiensis</i>", "latitude" : 39.288468 ,"longitude": -0.800289 , "status" : "red"},
+{"name" : "Conchin Grau Nogues, 46198 Dos Aguas, Valencia. ~60 managed colonies of <i>Apis mellifera iberiensis</i>", "latitude" : 39.288468 ,"longitude": -0.800289 , "status" : "black"},
 {"name" : "Jackye Riddle, Patensie 6335, South Africa. ~100 managed colonies of <i>Apis mellifera capensis</i> 2017", "latitude" : -33.759830 ,"longitude":  24.813165, "status": "red"},
 {"name" : "Mike Allsopp, Honeybee Research Section, Agricultural Research Council, Stellenbosch 7599, South Africa. 20 managed colonies of <i>Apis mellifera capensis</i> and 4 managed colonies of <i>Apis mellifera scutellata</i>", "latitude" : -33.957162 ,"longitude":  18.772404, "status": "red"},
 {"name" : "Taha Basheir Hassan, Egypt. <i>Apis mellifera lamarckii ?</i>", "latitude" : 30.03 ,"longitude":  31.92, "status": "black"},
@@ -29,4 +29,5 @@
 {"name" : "Oleg Gusev; Eduard Shuralev; Malik, Kazan Federal University, Kazan, Russia", "latitude" : 55.79 ,"longitude": 49.12, "status": "red"},
 {"name" : "Katharine Hoffman, Hugh Metzler; Alberta, Canada", "latitude" : 49.85 ,"longitude": -113.49, "status": "black"},
 {"name" : "Katharine Hoffman, Hugh Metzler; Alberta, Canada", "latitude" : 50.570 ,"longitude": -113.85, "status": "black"},
-{"name" : "Katharine Hoffman; Haverhill, England", "latitude" : 52.05 ,"longitude":0.46, "status": "black"}]
+{"name" : "Katharine Hoffman; Haverhill, England", "latitude" : 52.05 ,"longitude":0.46, "status": "black"},
+{"name" : "Nizar Haddad, National Center for Agricultural Research and Extension, Algeria site?", "latitude" : 36.44 ,"longitude":3.38, "status": "black"}]
