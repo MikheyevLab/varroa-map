@@ -37,4 +37,6 @@
 {"name" : "Pilar de La Rua, University of Murcia, Spain", "latitude" : 38.01 ,"longitude":-1.16, "status": "black"},
 {"name" : "Alice Pinto, Instituto Politécnico de Bragança, Portugal", "latitude" : 41.79 ,"longitude":-6.76, "status": "black"},
 {"name" : "Romain Gueyte, Centre de Promotion de l'Apiculture & Rolland Patrick, Vanuatu", "latitude" : -15.430 ,"longitude":166.96, "status": "black"},
-{"name" : "Teklu Gebretsadik, Southern Agricultural Research Institute Hawassa, Ethiopia", "latitude" : 7.05 ,"longitude":38.49, "status": "black"}]
+{"name" : "Teklu Gebretsadik, Southern Agricultural Research Institute Hawassa, Ethiopia", "latitude" : 7.05 ,"longitude":38.49, "status": "black"},
+{"name" : "Bechani Nyawali, Zambia Forestry College, Zambia", "latitude" : -12.848 ,"longitude": 28.22, "status": "black"},
+{"name" : "Usman H. Dukku, Abubakar Tafawa Balewa University, Nigeria", "latitude" : 10.27 ,"longitude": 9.78, "status": "black"}]
