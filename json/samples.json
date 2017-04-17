@@ -40,4 +40,6 @@
 {"name" : "Teklu Gebretsadik, Southern Agricultural Research Institute Hawassa, Ethiopia", "latitude" : 7.05 ,"longitude":38.49, "status": "black"},
 {"name" : "Bechani Nyawali, Zambia Forestry College, Zambia", "latitude" : -12.848 ,"longitude": 28.22, "status": "black"},
 {"name" : "Usman H. Dukku, Abubakar Tafawa Balewa University, Nigeria", "latitude" : 10.27 ,"longitude": 9.78, "status": "black"},
-{"name" : "Lucie Aba Toumnou, University of Bangui, Central African Republic", "latitude" : 4.37 ,"longitude": 18.56, "status": "black"}]
+{"name" : "Lucie Aba Toumnou, University of Bangui, Central African Republic", "latitude" : 4.37 ,"longitude": 18.56, "status": "black"},
+{"name" : "Texas College Station frozen bees collection 1996", "latitude" : 23.74077 ,"longitude": -99.110129, "status": "green"},
+{"name" : "Texas College Station frozen bees collection 1994", "latitude" : 29.231351 ,"longitude": -95.190208, "status": "green"}]
