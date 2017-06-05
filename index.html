@@ -52,9 +52,14 @@ button {
   top: 30px;
 }
 
-.filled-circle {
-  padding: 2px 11px;
-  border-radius: 2px;
+.circle:before {
+  content: ' \25CF';
+  font-size: 15px;
+
+ul {
+  list-style-type: none;
+}
+
 }
 
 <button>Reset</button>
@@ -64,9 +69,9 @@ button {
 
   <h1><i>Varroa destructor</i> world collection</h1>
   <p>This world map shows the sampling locations in which honey bee mites specimens were already collected or soon to be collected. The ongoing collection aims to cover as many regions as possible in order to study the biogeography of <i>Varroa destructor</i> and reconstruct its roads of invasion, using whole genome sequencing.</p> 
-  <li><span class="filled-circle" style="background-color: black" ></span> potential contact for samples</li>
-  <li><span class="filled-circle" style="background-color: blue" ></span> sampling in progress</li>
-  <li><span class="filled-circle" style="background-color: green" ></span> samples received at the lab</li>
+  <li><span class="circle" style="color: black" ></span> potential contact for samples</li>
+  <li><span class="circle" style="color: blue" ></span> sampling in progress</li>
+  <li><span class="circle" style="color: green" ></span> samples received at the lab</li>
   <li>Map raster shows the spread of Varroa destructor according to history records reported from Wilfert et al. 2016: recent (yellow) to old (red)</li>
   
   <p>We are grateful to everyone who contributed samples to this project. Our work would not be possible without your help.</p>
