@@ -21,7 +21,8 @@
 {"name" : "Nizar Haddad, NCARE, DZA02, Algeria, North Center. 3 colonies, 2017", "latitude" : 36.751 ,"longitude": 3.49402, "status": "green"},
 {"name" : "Texas College Station frozen bees collection 1996", "latitude" : 23.74077 ,"longitude": -99.110129, "status": "green"},
 {"name" : "Texas College Station frozen bees collection 1994", "latitude" : 29.231351 ,"longitude": -95.190208, "status": "green"},
-{"name" : "Alice Pinto, Instituto Politécnico de Bragança, Portugal. 28 colonies, 2017", "latitude" : 41.79 ,"longitude":-6.76, "status": "green"},
+{"name" : "Alice Pinto, Instituto Politécnico de Bragança, PRT01. 16 colonies, 2017", "latitude" : 41.808792 ,"longitude":-6.711781, "status": "green"},
+{"name" : "Alice Pinto, Instituto Politécnico de Bragança, Portugal. 12 colonies, 2017", "latitude" : 37.053928 ,"longitude": -8.877719, "status": "green"},
 {"name" : "Viviane Wepfer, Bern, Switzerland. 2 colonies.", "latitude" : 46.922738 ,"longitude":  7.444870, "status": "green"},
 {"name" : "Sasha, Near Kazan, Russia", "latitude" : 55.666111 ,"longitude": 48.828056, "status": "green"},
 {"name" : "Eduard Shuralev, Malik Mukminov, Oleg Gusev, RUS01, Russia, 5 colonies.", "latitude" : 42.908705,"longitude": 43.852444, "status": "green"},
@@ -55,7 +56,7 @@
 {"name" : "Alison MacAfee, CAN19, Canada, 2 colonies.", "latitude" : 46.80458,"longitude": -71.74068, "status": "green"},
 {"name" : "Romain Gueyte, CPA & Rolland Patrick, Vanuatu, 1 colony, maybe V. jacobsoni", "latitude" : -17.7251417,"longitude": 168.3215333333, "status": "green"},
 {"name" : "Romain Gueyte, CPA & Rolland Patrick, Vanuatu, 1 colony, maybe V. jacobsoni", "latitude" : -17.8189,"longitude": 168.4391, "status": "green"},
-{"name" : "Alexis Beaurepaire, INRA PACA Avignon, France", "latitude" : 43.91 ,"longitude": 4.87, "status": "green"},
+{"name" : "Alexis Beaurepaire, INRA PACA Avignon, France", "latitude" : 43.914616 ,"longitude": 4.87819, "status": "green"},
 {"name" : "Teklu Gebretsadik, Southern Agricultural Research Institute Hawassa, Ethiopia", "latitude" : 7.05 ,"longitude":38.49, "status": "blue"},
 {"name" : "Andrea Luchetti, University of Bologna, Italy", "latitude" : 44.49 ,"longitude": 11.35, "status": "blue"},
 {"name" : "Takahashi Jun-ichi, Honeybee Sangyo Research Center, Kyoto, Japan", "latitude" : 35.07 ,"longitude": 135.75, "status": "blue"},
@@ -71,7 +72,7 @@
 {"name" : "Lucie Aba Toumnou, University of Bangui, Central African Republic", "latitude" : 4.37 ,"longitude": 18.56, "status": "blue"},
 {"name" : "Pilar de La Rua, University of Murcia, Spain", "latitude" : 38.01 ,"longitude":-1.16, "status": "blue"},
 {"name" : "Aimee Lynn A. Barrion-Dupo, University of the Philippines Los Baños College Bee Program", "latitude" : 14.16 ,"longitude": 121.24, "status": "black"},
-{"name" : "Raphaelle Luisier, Luscombe lab, Switzerland.", "latitude" : 46.52 ,"longitude":  6.63, "status": "black"},
 {"name" : "Claire Morandin, Frederic Villanou, France, location South?", "latitude" : 43.60 ,"longitude": 3.87, "status": "black"},
 {"name" : "Apiario Santa Rita; Uberlandia, Brazil", "latitude" : -18.91 ,"longitude": -48.28, "status": "black"},
-{"name" : "Jay D. Evans, ARS-USDA, several locations in US", "latitude" : 39.02 ,"longitude": -76.92, "status": "black"}]
+{"name" : "Jay D. Evans, ARS-USDA, several locations in US", "latitude" : 39.02 ,"longitude": -76.92, "status": "black"},
+{"name" : "Andrés Marcelo Vargas Fernández, University of Chile", "latitude" : -33.44 ,"longitude": -70.65, "status": "black"}]
