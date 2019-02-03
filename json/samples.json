@@ -42,9 +42,9 @@
 {"name" : "Ting Zhou, CSIRO collection, CHN08, China. 1 colony <i>VdAc</i> 2001", "latitude" : 22.61401 ,"longitude": 112.63183 , "status" : "green"},
 {"name" : "Ting Zhou, CSIRO collection, CHN09, China. 1 colony <i>VdAm</i> 2001", "latitude" : 23.92799 ,"longitude": 113.15883 , "status" : "green"},
 {"name" : "Ting Zhou, CSIRO collection, CHN10, China. 1 colony <i>VdAc</i> 2002", "latitude" : 23.94609 ,"longitude": 114.69726 , "status" : "green"},
-{"name" : "Jarkko Routtu, Benjamin Conlon, Shishira Devaraju, Axel Brockmann, IND01, India, 1 colony <i>VdAc</i> 2018", "latitude" : 13.070661 ,"longitude": 77.579801, "status": "green"},
-{"name" : "Shishira Devaraju, Axel Brockmann, IND02, India, 2 colonies <i>VdAc and Am</i> 2018", "latitude" : 13.1419444 ,"longitude": 77.5426944444444, "status": "green"},
-{"name" : "Shishira Devaraju, Axel Brockmann, IND03, India, 2 colonies <i>VdAc</i> 2018", "latitude" : 12.1445 ,"longitude": 75.9382, "status": "green"},
+{"name" : "Jarkko Routtu, Benjamin Conlon, Shishira Devaraju, Axel Brockmann, Halle Univ. and NCBS-TIFR, IND01, India, 1 colony <i>VdAc</i> 2018", "latitude" : 13.070661 ,"longitude": 77.579801, "status": "green"},
+{"name" : "Shishira Devaraju, Axel Brockmann, NCBS-TIFR, IND02, India, 2 colonies <i>VdAc and Am</i> 2018", "latitude" : 13.1419444 ,"longitude": 77.5426944444444, "status": "green"},
+{"name" : "Shishira Devaraju, Axel Brockmann, NCBS-TIFR, IND03, India, 2 colonies <i>VdAc</i> 2018", "latitude" : 12.1445 ,"longitude": 75.9382, "status": "green"},
 {"name" : "Denis Anderson, CSIRO collection, IDN01, Indonesia. 1 colony <i>VjAc</i> 1998", "latitude" : -6.34814 ,"longitude": 106.56935 , "status" : "green"},
 {"name" : "Denis Anderson, CSIRO collection, IDN02, Indonesia. 1 colony <i>VjAc</i> 1998", "latitude" : -6.92387 ,"longitude": 106.93156 , "status" : "green"},
 {"name" : "Denis Anderson, CSIRO collection, IDN03, Indonesia. 1 colony <i>VjAc</i> 1998", "latitude" : -6.98345 ,"longitude": 107.43608 , "status" : "green"},
@@ -185,4 +185,6 @@
 {"name" : "Ashutosh Das, Chittagong Veterinary and Animal Sciences University, Bangladesh", "latitude" : 22.36 ,"longitude": 91.80, "status": "blue"},
 {"name" : "Martin Stephen John, The University of Salford, Fernando de Noronha", "latitude" : -3.85 ,"longitude": -32.42, "status": "blue"},
 {"name" : "Gabrielle Almecija, apinov, French Guyana", "latitude" : 5.11 ,"longitude": -52.68, "status": "blue"},
-{"name" : "Panuwan Chantawannakul, Samuel Ramsey, Chiang Mai University and USDA, Thailand", "latitude" : 18.79 ,"longitude": 98.95, "status": "black"}]
+{"name" : "Panuwan Chantawannakul, Samuel Ramsey, Chiang Mai University and USDA, Thailand", "latitude" : 18.79 ,"longitude": 98.95, "status": "black"},
+{"name" : "Khalid Rafique, National Agricultural Research Centre, Pakistan", "latitude" : 33.67,"longitude": 73.12, "status": "blue"},
+{"name" : "Anura Indrajith, Rajarata Univ. of Sri Lanka, Sri Lanka", "latitude" : 8.36,"longitude": 80.50, "status": "black"}]
