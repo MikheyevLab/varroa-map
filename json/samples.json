@@ -279,6 +279,7 @@
 {"name" : "CSIRO collection, Sri Lanka, LKA03", "latitude" : 6.844225,"longitude": 81.001613, "status": "green"},
 {"name" : "CSIRO collection, Sri Lanka, LKA04", "latitude" : 6.843699,"longitude": 81.021905, "status": "green"},
 {"name" : "G. Theophilidis, CSIRO, Mesimeri, Greece, 2001", "latitude" : 40.415687,"longitude": 23.009305, "status": "green"},
+{"name" : "CSIRO collection, National Agricultural Research Centre, Pakistan 2003", "latitude" : 33.678449,"longitude": 73.138987, "status": "green"},
 {"name" : "Patricia Loreto Aldea Sanchez, University of Chile", "latitude" : -33.44 ,"longitude": -70.65, "status": "blue"},
 {"name" : "Michael Lattorf, ICIPE, Kenya", "latitude" : -1.22 ,"longitude": 36.89, "status": "black"},
 {"name" : "Martin Stephen John, The University of Salford, Fernando de Noronha", "latitude" : -3.85 ,"longitude": -32.42, "status": "blue"},
